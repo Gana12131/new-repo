@@ -1,3 +1,21 @@
 sample txt file
 
 personal access token = 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
+
+
+Additional Resources
+You can read more about the token Authentication from the given link below
+
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+
+
+
+To remember the Personal Access token in your laptop for future authentication, follow the steps given in the below StackOverflow thread
+
+https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+
+
+
+To read more about SSH Keys, read the Github official docs.
+
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
